@@ -1,0 +1,14 @@
+# Ignorar ambiente virtual
+.venv/
+venv/
+
+# Ignorar arquivos de sistema
+__pycache__/
+*.pyc
+
+# Ignorar credenciais
+.env
+
+# Ignorar arquivos de build
+dist/
+build/
